@@ -1,0 +1,5 @@
+- Replace your desired repository url in need_unfork.txt.
+- And Install gh.msi and access the github account using gh terminal.
+- And replace your github username and email in code.
+- Run python code.
+- Something wrong can occur, search google, you can easily deal with it.
